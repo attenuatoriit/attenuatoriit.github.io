@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://attenuatoriit.github.io/"><img src="assets/documents/imgs/Cute_Robot.ico" alt="Aniket Nandi" width="200"></a>
+  <a href="https://attenuatoriit.github.io/" target="_blank"><img src="assets/documents/imgs/Cute_Robot.ico" alt="Aniket Nandi" width="200"></a>
   <br>
   Aniket Nandi
   <br>
